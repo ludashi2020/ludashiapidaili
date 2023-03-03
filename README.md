@@ -1,4 +1,4 @@
-ChatGPT proxy server
+ludashiapidaili
 
 # CONFIG IS HIDDEN AND NOT SHARED
 
